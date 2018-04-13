@@ -39,7 +39,7 @@ end
 
 
 def using_uniq(arr)
-arr.uniq
+  arr.uniq
 end
   
 
