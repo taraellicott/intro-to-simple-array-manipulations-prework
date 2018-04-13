@@ -37,18 +37,19 @@ def using_insert(arr, elem)
 arr.insert(4, elem)
 end
 
+
 def using_uniq(arr)
 arr.uniq
 end
   
 
 def using_flatten(arr)
-arr.flatten
+  arr.flatten
 end
   
 
 def using_delete(arr, str)
-arr.delete(str)
+  arr.delete(str)
 end
   
 
